@@ -28,12 +28,12 @@ export default defineNuxtConfig({
                 { name: 'format-detection', content: 'telephone=no' },
                 { property: 'og:title', content: '闲看：资源随心，音乐下载与影视聚合平台' },
                 { property: 'og:description', content: '闲看是一个开源免费的资源搜索平台，提供网盘、音乐、影视等多种资源，一站式服务，供学习使用。' },
-                { property: 'og:image', content: 'https://sov.us.kg/logo.png' },
-                { property: 'og:url', content: 'https://sov.us.kg' },
+                { property: 'og:image', content: 'https://xkan.tech/logo.png' },
+                { property: 'og:url', content: 'https://xkan.tech' },
                 { name: 'twitter:card', content: 'summary_large_image' },
                 { name: 'twitter:title', content: '闲看：资源随心，音乐下载与影视聚合平台' },
                 { name: 'twitter:description', content: '免费开源的资源搜索平台，涵盖音乐、网盘、影视等内容，学习探索好去处！' },
-                { name: 'twitter:image', content: 'https://sov.us.kg/logo.png' },
+                { name: 'twitter:image', content: 'https://xkan.tech/logo.png' },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
                 { name: 'referrer', content: 'no-referrer' },
                 { name: 'referrer', content: 'always' },
@@ -152,7 +152,7 @@ export default defineNuxtConfig({
     },
     site: {
         name: '闲看 - 资源随心，娱乐无限',
-        url: 'https://sov.us.kg/',
+        url: 'https://xkan.tech/',
         description: '闲看 - 资源随心，娱乐无限， 一个开源免费的网盘资源搜索程序，仅供学习使用，不支持商业用途。'
     },
     compatibilityDate: '2024-09-12'
