@@ -16,7 +16,7 @@ const colorMode = useColorMode()
                 <nuxt-link to="/tvbox" class="text-sm text-slate-600 font-bold dark:text-white ">
                     🖥️ TVbox接口
                 </nuxt-link>
-                <nuxt-link to="https://yxvm.com/" class="text-sm text-slate-600 font-bold dark:text-white ">
+                <nuxt-link to="https://yxvm.com/aff.php?aff=666" class="text-sm text-slate-600 font-bold dark:text-white ">
                     🛑 本站服务器由YxVM强力赞助
                 </nuxt-link>
             </div>
