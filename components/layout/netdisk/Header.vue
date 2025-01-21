@@ -14,10 +14,10 @@ const colorMode = useColorMode()
                     📺 电视TV
                 </nuxt-link>
                 <nuxt-link to="/tvbox" class="text-sm text-slate-600 font-bold dark:text-white ">
-                    📺 TVbox接口
+                    🖥️ TVbox接口
                 </nuxt-link>
                 <nuxt-link to="https://yxvm.com/" class="text-sm text-slate-600 font-bold dark:text-white ">
-                    本站服务器由YxVM强力赞助
+                    🛑 本站服务器由YxVM强力赞助
                 </nuxt-link>
             </div>
             <div class="flex flex-row items-center gap-4">
