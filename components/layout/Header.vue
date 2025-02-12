@@ -13,6 +13,9 @@ const goHome = () => {
         <div class="flex flex-row items-center justify-center gap-1">
           <img class="w-[40px] h-[40px] cursor-pointer" src="@/assets/my-logo.png" alt="logo" @click="goHome()">
           <h1 class="text-[14px] font-bold cursor-pointer dark:text-white" @click="goHome()">闲看-网盘资源搜索</h1>
+           <nuxt-link to="https://yxvm.com/aff.php?aff=666" class="text-sm text-slate-600 font-bold dark:text-white ">
+                    🛑 本站服务器由YxVM强力赞助
+                </nuxt-link>
         </div>
         <client-only>
           <div class="flex flex-row items-center gap-2">
