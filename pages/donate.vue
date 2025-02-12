@@ -18,5 +18,7 @@
     </p>
   </div>
 </template>
-
+           <nuxt-link to="https://yxvm.com/aff.php?aff=666" class="text-sm text-slate-600 font-bold dark:text-white ">
+                    🛑 本站服务器由YxVM强力赞助
+                </nuxt-link>
 <style scoped></style>
