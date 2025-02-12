@@ -17,9 +17,6 @@
       感谢你我与作者同行，让我们一起创造更多美好的瞬间！您的支持是作者不断前行的动力，期待与您分享更多精彩的作品！
     </p>
   </div>
-  <nuxt-link to="https://yxvm.com/aff.php?aff=666" class="text-sm text-slate-600 font-bold dark:text-white ">
-                    🛑 本站服务器由YxVM强力赞助
-                </nuxt-link>
 </template>
            
 <style scoped></style>
