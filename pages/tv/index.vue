@@ -436,7 +436,7 @@ onBeforeUnmount(() => {
                     </div>
                 </div>
                 <div class="p-4 rounded-b-xl bg-black text-center text-white text-sm font-semibold">
-                    <nuxt-link to="/">AIPAN</nuxt-link>
+                    <nuxt-link to="/">闲看</nuxt-link>
                 </div>
 
                 <div class="grid grid-cols-12">
